@@ -1,7 +1,7 @@
-
 # Linktree Clone
 
 Clone of Linketree page, pages to have in one place social networks also known as "Link in bio".
+
 
 ## Screenshots
 
@@ -20,9 +20,14 @@ HTML, CSS, JS
 
 ## Support
 
-For support, email hola@josemafd.com.
+For support, email #####
 
 
 ## Demo
 
-https://josejtax.github.io/linketree-clone/
+Change of personal brand
+
+
+## 🔗 Socials
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](#)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
