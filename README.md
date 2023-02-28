@@ -20,4 +20,4 @@ For support, email jtax@allowcookies.dev
 
 ## Demo
 
-https://allowcookies.github.io/linketree-clone/
+https://madejtax.github.io/linketree-clone/
